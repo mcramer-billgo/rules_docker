@@ -19,7 +19,7 @@ Provides functions to pull all external package dependencies of this
 repository.
 """
 
-load(":go_repositories.bzl", "go_deps")
+#load(":go_repositories.bzl", "go_deps")
 load(":images.bzl", "images")
 load(":py_repositories.bzl", "py_deps")
 
