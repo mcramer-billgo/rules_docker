@@ -31,6 +31,6 @@ def deps():
     'repositories' in //repositories:repositories.bzl have been imported
     already.
     """
-    go_deps()
+    #go_deps()
     py_deps()
     images()
